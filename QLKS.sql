@@ -45,6 +45,7 @@ insert into DichVu values ('DV01', N'Ăn Sáng', 50)
 insert into DichVu values ('DV02', N'Ăn Trưa', 100)
 insert into DichVu values ('DV03', N'Ăn Tối', 100)
 
+insert into TaiKhoan values ('admin', 'admin', N'Duong Thi Ngoc Huyen', '0362033808', 'chunsama078@gmail.com', 1)
 insert into TaiKhoan values ('NguyenKhanh', '1234', N'Nguyễn Khánh', '0328758787', 'wh.knightz@gmail.com', 1)
 insert into TaiKhoan values ('LyChan', '1234', N'Lý Văn Chản', '0969930060', 'chanmta@gmail.com', 1)
 insert into TaiKhoan values ('TuongPhan', '1234', N'Phan Trung Tường', '0366918587', 'tuongphan@gmail.com', 1)
